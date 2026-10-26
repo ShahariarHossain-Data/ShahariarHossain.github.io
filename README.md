@@ -1,5 +1,7 @@
 # Shahariar Hossain Portfolio
 
+**Live site:** [Open the portfolio](https://shahariarhossain-data.github.io/ShahariarHossain.github.io/)
+
 Static portfolio website built with HTML, CSS, and JavaScript.
 
 ## Files
